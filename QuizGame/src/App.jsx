@@ -10,9 +10,9 @@ function App() {
     
   <div className='main'>
     <div className='bar'> </div>
-        <div className='progress'>Quiz Progress | {count} |</div>
+        <div className='progress'>Quiz Progress | {count} | </div>
   </div>
-      
+  
   )
 }
 
